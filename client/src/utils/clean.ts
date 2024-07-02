@@ -1,0 +1,1 @@
+export const stripTags = (value: string): string => value.replace(/(<([^>]+)>)/gi, "")

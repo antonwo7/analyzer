@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2be2295f-1da8-4285-bc5a-7ed39a263e83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2XhUkFRz7QUNLPNgHvaKzIzolrU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="18.16.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="18.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\OpenServer\domains\localhost\ilusiak\analyzer\client\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\ilusiak\analyzer\client\src\components\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\ilusiak\analyzer\client\src\assets" />
+      <recent name="C:\OpenServer\domains\localhost\ilusiak\analyzer\client\src\components\common\icons" />
+      <recent name="C:\OpenServer\domains\localhost\ilusiak\analyzer\client\src\components\pages" />
+      <recent name="C:\OpenServer\domains\localhost\ilusiak\analyzer\client\src\components\modals" />
+      <recent name="C:\OpenServer\domains\localhost\ilusiak\analyzer\server\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.wss.js">
+    <configuration name="client2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ws/client2.js" working-dir="$PROJECT_DIR$/ws">
+      <method v="2" />
+    </configuration>
+    <configuration name="client.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ws/client.js" working-dir="$PROJECT_DIR$/ws">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ws/index.js" working-dir="$PROJECT_DIR$/ws">
+      <method v="2" />
+    </configuration>
+    <configuration name="wss.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/wss.js" working-dir="$PROJECT_DIR$/server">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.wss.js" />
+        <item itemvalue="Node.js.client.js" />
+        <item itemvalue="Node.js.client2.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be2295f-1da8-4285-bc5a-7ed39a263e83" name="Default Changelist" comment="" />
+      <created>1699080945296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699080945296</updated>
+      <workItem from="1699080946348" duration="11895000" />
+      <workItem from="1699119791820" duration="8724000" />
+      <workItem from="1699464866745" duration="56197000" />
+      <workItem from="1699703783198" duration="83384000" />
+      <workItem from="1700686855614" duration="6170000" />
+      <workItem from="1700754768591" duration="9791000" />
+      <workItem from="1701285976127" duration="8115000" />
+      <workItem from="1701335320175" duration="689000" />
+      <workItem from="1701773371197" duration="983000" />
+      <workItem from="1701861645543" duration="1988000" />
+      <workItem from="1701866392605" duration="10252000" />
+      <workItem from="1702914317887" duration="226000" />
+      <workItem from="1702914898157" duration="1075000" />
+      <workItem from="1703535717317" duration="26000" />
+      <workItem from="1703535861863" duration="6000" />
+      <workItem from="1705432802115" duration="4932000" />
+      <workItem from="1706628508099" duration="1437000" />
+      <workItem from="1711111308036" duration="1374000" />
+      <workItem from="1711127825229" duration="1266000" />
+      <workItem from="1711146770892" duration="1611000" />
+      <workItem from="1712429436284" duration="1321000" />
+      <workItem from="1712680678799" duration="99000" />
+      <workItem from="1712697249688" duration="162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1306" y="320" key="#com.intellij.ide.util.MemberChooser" timestamp="1699558348699">
+      <screen x="0" y="0" width="3002" height="1210" />
+    </state>
+    <state x="1306" y="320" key="#com.intellij.ide.util.MemberChooser/0.0.3002.1210/-1920.112.1676.895@0.0.3002.1210" timestamp="1699558348699" />
+    <state width="1632" height="168" key="GridCell.Tab.0.bottom" timestamp="1701850778536">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state width="1632" height="168" key="GridCell.Tab.0.bottom/0.0.1676.896@0.0.1676.896" timestamp="1701850778536" />
+    <state width="2959" height="246" key="GridCell.Tab.0.bottom/0.0.3002.1210/-1920.112.1676.895@0.0.3002.1210" timestamp="1701335387343" />
+    <state width="1632" height="168" key="GridCell.Tab.0.center" timestamp="1701850778536">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state width="1632" height="168" key="GridCell.Tab.0.center/0.0.1676.896@0.0.1676.896" timestamp="1701850778536" />
+    <state width="2959" height="246" key="GridCell.Tab.0.center/0.0.3002.1210/-1920.112.1676.895@0.0.3002.1210" timestamp="1701335387343" />
+    <state width="1632" height="168" key="GridCell.Tab.0.left" timestamp="1701850778536">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state width="1632" height="168" key="GridCell.Tab.0.left/0.0.1676.896@0.0.1676.896" timestamp="1701850778536" />
+    <state width="2959" height="246" key="GridCell.Tab.0.left/0.0.3002.1210/-1920.112.1676.895@0.0.3002.1210" timestamp="1701335387343" />
+    <state width="1632" height="168" key="GridCell.Tab.0.right" timestamp="1701850778536">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state width="1632" height="168" key="GridCell.Tab.0.right/0.0.1676.896@0.0.1676.896" timestamp="1701850778536" />
+    <state width="2959" height="246" key="GridCell.Tab.0.right/0.0.3002.1210/-1920.112.1676.895@0.0.3002.1210" timestamp="1701335387343" />
+    <state x="417" y="182" key="IDE.errors.dialog" timestamp="1700032465169">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state x="417" y="182" key="IDE.errors.dialog/0.0.1676.896@0.0.1676.896" timestamp="1700032465169" />
+    <state x="546" y="180" width="583" height="534" key="find.popup" timestamp="1705442679556">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state x="546" y="180" width="583" height="534" key="find.popup/0.0.1676.896@0.0.1676.896" timestamp="1705442679556" />
+    <state x="978" y="243" width="1045" height="722" key="find.popup/0.0.3002.1210/-1920.112.1676.895@0.0.3002.1210" timestamp="1701290664039" />
+    <state x="613" y="220" key="refactoring.ChangeSignatureDialog" timestamp="1700116969377">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state x="613" y="220" key="refactoring.ChangeSignatureDialog/0.0.1676.896@0.0.1676.896" timestamp="1700116969377" />
+    <state x="500" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1699125025922">
+      <screen x="0" y="0" width="1676" height="896" />
+    </state>
+    <state x="500" y="188" width="672" height="678" key="search.everywhere.popup/0.0.1676.896@0.0.1676.896" timestamp="1699125025922" />
+  </component>
+</project>
